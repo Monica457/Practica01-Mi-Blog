@@ -1,0 +1,14 @@
+#div1 {
+	position: relative; 
+	width: 99%; 
+	left: 3px; 
+	height: 220px; 
+	background-color: #DCA294;
+}
+
+body{
+	width:90%;
+	margin:auto;
+	min-width:600px;
+	max-width:2000px
+}
